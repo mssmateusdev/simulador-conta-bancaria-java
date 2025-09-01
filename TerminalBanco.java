@@ -1,6 +1,6 @@
 package projeto;
 import java.util.Scanner;
-
+import projeto.ContaBancaria;
 
 /*
  * Classe principal que simula a interação do usuário com a conta bancária 
